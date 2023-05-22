@@ -1,0 +1,178 @@
+{
+  "tasks": [
+    {
+      "TaskType": 1,
+      "QuestionID": 1,
+      "NextQuestionID": 2,
+      "ActionDepth": 0
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 2,
+      "NextQuestionID": 3,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 3,
+      "NextQuestionID": 4,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 3,
+      "NextQuestionID": 19,
+      "ActionDepth": 2
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 4,
+      "NextQuestionID": 5,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 4,
+      "NextQuestionID": 15,
+      "ActionDepth": 2
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 4,
+      "NextQuestionID": 12,
+      "ActionDepth": 3
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 4,
+      "NextQuestionID": 16,
+      "ActionDepth": 4
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 5,
+      "NextQuestionID": 6,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 6,
+      "NextQuestionID": 7,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 7,
+      "NextQuestionID": 21,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 7,
+      "NextQuestionID": 8,
+      "ActionDepth": 2
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 21,
+      "NextQuestionID": 22,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 8,
+      "NextQuestionID": 9,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 8,
+      "NextQuestionID": 10,
+      "ActionDepth": 2
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 9,
+      "NextQuestionID": 11,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 10,
+      "NextQuestionID": 22,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 11,
+      "NextQuestionID": 0,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 15,
+      "NextQuestionID": 23,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 15,
+      "NextQuestionID": 14,
+      "ActionDepth": 2
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 23,
+      "NextQuestionID": 11,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 14,
+      "NextQuestionID": 11,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 12,
+      "NextQuestionID": 11,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 16,
+      "NextQuestionID": 17,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 17,
+      "NextQuestionID": 12,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 17,
+      "NextQuestionID": 19,
+      "ActionDepth": 2
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 19,
+      "NextQuestionID": 18,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 18,
+      "NextQuestionID": 11,
+      "ActionDepth": 1
+    },
+    {
+      "TaskType": 1,
+      "QuestionID": 22,
+      "NextQuestionID": 0,
+      "ActionDepth": 1
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "tasks": [
+    {
+      "ID": 1,
+      "Question": "Open the payer file based on the insurance found on the patient’s profile.",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 2,
+      "Question": "Check BIL notes and Action History for evidence of a prior Authorization information that may have been initiated",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 3,
+      "Question": "Has PA been initiated ?",
+      "Description": "Yes/No",
+      "TemplateType": 2,
+      "ActionText": "Yes/No",
+      "Active": "Y"
+    },
+    {
+      "ID": 4,
+      "Question": "Check PA status with appropriate system ?",
+      "Description": "multi option",
+      "TemplateType": 3,
+      "ActionText": "Approve/Pending/Decline/Not Found",
+      "Active": "Y"
+    },
+    {
+      "ID": 5,
+      "Question": "Update PA Authorization code & details in SPRx",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 6,
+      "Question": "Re-process claim.",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 7,
+      "Question": "Does Claim Pay?",
+      "Description": "Yes/No",
+      "TemplateType": 2,
+      "ActionText": "Yes/No",
+      "Active": "Y"
+    },
+    {
+      "ID": 8,
+      "Question": "Are Dosage and NDC of RX same as the PA?",
+      "Description": "Yes/No",
+      "TemplateType": 2,
+      "ActionText": "Yes/No",
+      "Active": "Y"
+    },
+    {
+      "ID": 9,
+      "Question": "Contact MDO for New PA or New RX",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 10,
+      "Question": "Contact PA line of Plan or HD to resolve",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 11,
+      "Question": "Pend task for follow up Check Needs by date",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 12,
+      "Question": "Cancel Claim in SPRx.",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 13,
+      "Question": "Contact PT & MDO, Fax FD to MDO",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 14,
+      "Question": "Do not Follow up with MDO.",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 15,
+      "Question": "Is it a SGM or Non-SGM PA ?",
+      "Description": "Yes/No",
+      "TemplateType": 2,
+      "ActionText": "Non SGM/SGM",
+      "Active": "Y"
+    },
+    {
+      "ID": 16,
+      "Question": "Double check for SGM PA Errors and proper means of initiation",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 17,
+      "Question": "Has MDO been contacted 3 times for initiation",
+      "Description": "Yes/No",
+      "TemplateType": 2,
+      "ActionText": "Yes/No",
+      "Active": "Y"
+    },
+    {
+      "ID": 18,
+      "Question": "Contact PT & MDO",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 19,
+      "Question": "Initiate PA Via method found in Payer file",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 20,
+      "Question": "Generate note and update it SPR application by copy",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 21,
+      "Question": "Move To Secondary Process",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 22,
+      "Question": "Update Patient BIL Notes",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    },
+    {
+      "ID": 23,
+      "Question": "Follow up with MDO",
+      "Description": "Siingle action ok",
+      "TemplateType": 1,
+      "ActionText": "Ok",
+      "Active": "Y"
+    }
+  ]
+}
